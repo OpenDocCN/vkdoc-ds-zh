@@ -10,4 +10,5 @@
 +   [数据科学项目管理手册](docs/manage-your-ds-proj/README.md)
 +   [R 和 JavaScript 高级数据可视化](docs/pro-data-vis-r-js/README.md)
 +   [Python 数据分析工具包](docs/py-da-tk/README.md)
++   [树莓派超算和科学计算教程](docs/raspi-supercomp-sci-prog/README.md)
 +   [R4 数据可视化教程](docs/vis-data-r4/README.md)
